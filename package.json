@@ -1,0 +1,14 @@
+{
+  "name": "minimal-html-webpack-plugin-issue-556",
+  "version": "1.0.0",
+  "description": "Minimal example of html-webpack-plugin issue #556",
+  "scripts": {
+    "build": "./node_modules/.bin/webpack --config webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.26.0",
+    "webpack": "^1.14.0"
+  }
+}
